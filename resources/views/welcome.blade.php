@@ -187,7 +187,7 @@
                               <img
                                 src="/meme/meme1.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt=""
+                                alt="tes"
                               />
                           
                               <img
