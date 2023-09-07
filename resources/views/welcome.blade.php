@@ -187,13 +187,13 @@
                               <img
                                 src="/meme/meme1.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt="Boat on Calm Water"
+                                alt=""
                               />
                           
                               <img
                                 src="/meme/meme2.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt="Wintry Mountain Landscape"
+                                alt=""
                               />
                             </div>
                           
@@ -201,13 +201,13 @@
                               <img
                                 src="/meme/meme3.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt="Mountains in the Clouds"
+                                alt=""
                               />
                           
                               <img
                                 src="/meme/meme4.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt="Boat on Calm Water"
+                                alt=""
                               />
                             </div>
                           
@@ -215,13 +215,13 @@
                               <img
                                 src="/meme/meme5.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt="Waves at Sea"
+                                alt=""
                               />
                           
                               <img
                                 src="/meme/meme6.png"
                                 class="w-100 shadow-1-strong rounded mb-4"
-                                alt="Yosemite National Park"
+                                alt=""
                               />
                             </div>
                         </div>
@@ -233,13 +233,13 @@
                                   <img
                                     src="/meme/meme1.png"
                                     class="w-100 shadow-1-strong rounded mb-4"
-                                    alt="Boat on Calm Water"
+                                    alt=""
                                   />
                               
                                   <img
                                     src="/meme/meme2.png"
                                     class="w-100 shadow-1-strong rounded mb-4"
-                                    alt="Wintry Mountain Landscape"
+                                    alt=""
                                   />
                                 </div>
                               
@@ -247,13 +247,13 @@
                                   <img
                                     src="/meme/meme3.png"
                                     class="w-100 shadow-1-strong rounded mb-4"
-                                    alt="Mountains in the Clouds"
+                                    alt=""
                                   />
                               
                                   <img
                                     src="/meme/meme4.png"
                                     class="w-100 shadow-1-strong rounded mb-4"
-                                    alt="Boat on Calm Water"
+                                    alt=""
                                   />
                                 </div>
                               
@@ -261,13 +261,13 @@
                                   <img
                                     src="/meme/meme5.png"
                                     class="w-100 shadow-1-strong rounded mb-4"
-                                    alt="Waves at Sea"
+                                    alt=""
                                   />
                               
                                   <img
                                     src="/meme/meme6.png"
                                     class="w-100 shadow-1-strong rounded mb-4"
-                                    alt="Yosemite National Park"
+                                    alt=""
                                   />
                                 </div>
                             </div>
