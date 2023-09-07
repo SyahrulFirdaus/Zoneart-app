@@ -75,7 +75,7 @@
                             <marquee behavior="" direction="right"><img src="/gif/Hyper_Sonic_run_fly.gif" alt=""></marquee>
                         </div>
 
-                <img src="/gif/Comp1.gif" width="100%" alt="">
+                <img src="/gif/Comp1.gif" width="100%" height="400" alt="">
                 <marquee behavior="" direction="up"><img src="/gif/snitch.gif" alt=""></marquee></img>
 
                 <div class="content">
