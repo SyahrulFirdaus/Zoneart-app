@@ -1,70 +1,76 @@
 @extends('layouts.app')
 @section('content')
+ <!-- Navigation-->
+
         <div id="wrapper">
-            <div class="container">
+            <div class="ml-5 mr-2">
                 <ul class="nav">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" href="#Hary">Welcome HarryPotterObamaSonic10Inu(Ticker:BITCOIN)</a>
+                      <a class="nav-link active" aria-current="page" href="#Hary"><p class="bg-white" style="color: blueviolet;"><b>Welcome HarryPotterObamaSonic10Inu(Ticker:BITCOIN)</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#howtobuy" target="_blank">How to Buy</a>
+                        <a class="nav-link" href="#howtobuy" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>How to Buy</b></p></a>
                       </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#about" target="_blank">About</a>
+                      <a class="nav-link" href="#about" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>About</b></p></a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#tokenomics" target="_blank">Tokenomics</a>
+                      <a class="nav-link" href="#tokenomics" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Tokenomics</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" target="_blank">Team</a>
+                        <a class="nav-link" href="#team" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Team</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://hpos10i.com/click-here/HarryPotterObamaSonic10Inu-Ticker-BITCOIN-White-Paper.txt" target="_blank">White Paper</a>
+                        <a class="nav-link" href="https://www.dextools.io/app/en/ether/pair-explorer/0x2cc846fff0b08fb3bffad71f53a60b4b6e6d6482" target="_blank"><p class="bg-white" style="color: blue;"><b>Chart</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#funny" target="_blank">Funny Pictures</a>
+                        <a class="nav-link" href="https://hpos10i.com/click-here/HarryPotterObamaSonic10Inu-Ticker-BITCOIN-White-Paper.txt" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>White Paper</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://t.me/hpos10i" target="_blank">Telegram</a>
+                        <a class="nav-link" href="#funny" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Funny Pictures</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/RealHPOS10I" target="_blank">Twitter</a>
+                        <a class="nav-link" href="https://t.me/hpos10i" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Telegram</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.reddit.com/r/hpos10i/" target="_blank">Reddit</a>
+                        <a class="nav-link" href="https://twitter.com/RealHPOS10I" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Twitter</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://etherscan.io/tokens" target="_blank">EtherScan</a>
+                        <a class="nav-link" href="https://www.reddit.com/r/hpos10i/" target="_blank"><p class="bg-white" style="color: blue;"><b>Reddit</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://hpos10imerch.com/" target="_blank">Merch</a>
+                        <a class="nav-link" href="https://etherscan.io/tokens" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>EtherScan</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://opensea.io/collection/sproto-gremlins" target="_blank">Sproto Gremlins NFTs</a>
+                        <a class="nav-link" href="https://hpos10imerch.com/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Merch</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://crash.hpos10i.com/" target="_blank">Casino Night Zone</a>
+                        <a class="nav-link" href="https://opensea.io/collection/sproto-gremlins" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Sproto Gremlins NFTs</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://coinmarketcap.com/currencies/harrypotterobamasonic10inu-eth/" target="_blank">CoinMarketCap</a>
+                        <a class="nav-link" href="https://crash.hpos10i.com/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Casino Night Zone</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth" target="_blank">Coin Gecko</a>
+                        <a class="nav-link" href="https://coinmarketcap.com/currencies/harrypotterobamasonic10inu-eth/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>CoinMarketCap</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://poloniex.com/trade/HARRY_USDT" target="_blank">Ploniex</a>
+                        <a class="nav-link" href="https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Goin Gecko</b></p></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.lbank.com/trade/bitcoin_usdt/" target="_blank">Lbank</a>
+                        <a class="nav-link" href="https://poloniex.com/trade/HARRY_USDT" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Ploniex</b></p></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.lbank.com/trade/bitcoin_usdt/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Lbank</b></p></a>
                     </li>
                   </ul>
+                  <hr style=" border: 10px solid blue;">
 
                   <marquee behavior="" direction=""><img src="/gif/Sonic-pulling.gif" alt=""> PEOPLE'S BIT COIN <img src="/gif/Run-3.gif" alt=""></marquee>
 
                   <div id="Hary">
-                    <h1>The Harry Potter Obama Sonic 10 Inu (Ticker:BITCOIN) Project</h1>
-                    <p>ETH Token Contract: 0x72e4f9f808c49a2a61de9c5896298920dc4eeea9</p>
-                    <h4>RoadMap to $5bn ( + ∞% )</h4>
+                    <h1 class="text-white">The Harry Potter Obama Sonic 10 Inu (Ticker:BITCOIN) Project</h1>
+                    <p class="text-white">ETH Token Contract: 0x72e4f9f808c49a2a61de9c5896298920dc4eeea9</p>
+                    <h4 class="text-white">RoadMap to $5bn ( + ∞% )</h4>
                     <marquee behavior="" direction="right"><img src="/gif/Hyper_Sonic_run_fly.gif" alt=""></marquee>
                   </div>
 
@@ -174,6 +180,7 @@
                         <iframe width="100%" height="615" src="https://www.youtube.com/embed/7BHNkH4k-d8?si=eg8FXNkUAQ1BQdAQ&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                      
                         <iframe width="100%" height="615" src="https://www.youtube.com/embed/hXS9wotfZRg?si=WBvXSYFEli48SYQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                         </div>
+
                         <div class="row">
                             <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
                               <img
@@ -216,7 +223,55 @@
                                 alt="Yosemite National Park"
                               />
                             </div>
-                          </div>
+                        </div>
+
+                        <div id="team">
+                            <h4 class="text-dark">Team</h4>
+                            <div class="row">
+                                <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+                                  <img
+                                    src="/meme/meme1.png"
+                                    class="w-100 shadow-1-strong rounded mb-4"
+                                    alt="Boat on Calm Water"
+                                  />
+                              
+                                  <img
+                                    src="/meme/meme2.png"
+                                    class="w-100 shadow-1-strong rounded mb-4"
+                                    alt="Wintry Mountain Landscape"
+                                  />
+                                </div>
+                              
+                                <div class="col-lg-4 mb-4 mb-lg-0">
+                                  <img
+                                    src="/meme/meme3.png"
+                                    class="w-100 shadow-1-strong rounded mb-4"
+                                    alt="Mountains in the Clouds"
+                                  />
+                              
+                                  <img
+                                    src="/meme/meme4.png"
+                                    class="w-100 shadow-1-strong rounded mb-4"
+                                    alt="Boat on Calm Water"
+                                  />
+                                </div>
+                              
+                                <div class="col-lg-4 mb-4 mb-lg-0">
+                                  <img
+                                    src="/meme/meme5.png"
+                                    class="w-100 shadow-1-strong rounded mb-4"
+                                    alt="Waves at Sea"
+                                  />
+                              
+                                  <img
+                                    src="/meme/meme6.png"
+                                    class="w-100 shadow-1-strong rounded mb-4"
+                                    alt="Yosemite National Park"
+                                  />
+                                </div>
+                            </div>
+                        </div>
+                    
 
         <a class="scroll-to-top rounded" href="#page-top">
             <i class="fas fa-angle-up"></i>

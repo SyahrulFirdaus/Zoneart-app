@@ -151,6 +151,9 @@
     opacity: 0;
   }
 }
+body {
+    background-color: black
+}
         </style>
 
 </head>
