@@ -10,19 +10,19 @@
                     </li>
                     <li class="nav-item row">
                       <img src="/emerald-purple.png" width="25" height="25" alt="">
-                        <a class="nav-link" href="#howtobuy" target="_blank"><p class="bg-white" style="color: blueviolet; font-size:20px"><b>How to Buy</b></p></a>
+                        <a class="nav-link" href="#howtobuy" ><p class="bg-white" style="color: blueviolet; font-size:20px"><b>How to Buy</b></p></a>
                       </li>
                     <li class="nav-item row">
                       <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
-                      <a class="nav-link" href="#about" target="_blank"><p class="bg-white" style="color: blueviolet; font-size:20px"><b>About</b></p></a>
+                      <a class="nav-link" href="#about" ><p class="bg-white" style="color: blueviolet; font-size:20px"><b>About</b></p></a>
                     </li>
                     <li class="nav-item row">
                       <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
-                      <a class="nav-link" href="#tokenomics" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Tokenomics</b></p></a>
+                      <a class="nav-link" href="#tokenomics" ><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Tokenomics</b></p></a>
                     </li>
                     <li class="nav-item row">
                       <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
-                        <a class="nav-link" href="#team" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Team</b></p></a>
+                        <a class="nav-link" href="#team" ><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Team</b></p></a>
                     </li>
                     <li class="nav-item row">
                       <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
@@ -104,7 +104,7 @@
                     </div>
                     <hr class="sidebar-divider">
                     <div id="howtobuy">
-                        <h5>How to Buy</h5>
+                        <h3 class="text-white">How to Buy</h3>
                             <ol class="list-group list-group-numbered">
                                 <li class="list-group-item d-flex justify-content-between align-items-start">
                                 <div class="ms-2 me-auto">
@@ -170,7 +170,7 @@
                         <div class="row g-0">
                           <div class="col-md-8">
                             <div class="card-body">
-                              <h5 class="card-title">About the Token</h5>
+                              <h5 class="card-title text-dark">About the Token</h5>
                               <p class="card-text text-justify" style="color: turquoise">
                                 Before the year 2023, when time did not exist, the universe manifested a store of value. The identification of this value is best described as the Quest (sometimes the Quest of Hallows). Anyone can relive the manifestation by charging their core of Neptune with enough opal as they sleep. But I understand that there isn’t enough Opal to go around for everyone and some people haven’t Ascended. So I’ll report it here as well. There have been other Ascended who have identified this event as well, but have failed to interpret its tenets and apply them in real life. One such Ascended has been gifted with the visions of the necessity of speed as well as foresee the critical universal event. His vision was very near the truth, evidenced by predicting what he called the Dimensional Merge and creating the comic Sonichu, featuring Barack Obama (the first Tenet: iron guidance and resilience) in a cameo. Obama’s presence is not a coincidence. None of this is. The Obama family was gifted (a gift of value) a dog, Bo. Bo then in turn had minted a number of baseball cards (a gift of value that generates further value). This recursive gifting is second among the tenets that the Universe is sending across the channel of Neptune, the third being the Optimistic Flurry, of which Sonichu is a diluted representation of and Sonic embodies the spirit much more cleanly. The identification of the manifestation of these three Tenets that we call the Quest has also inspired other fictional works such as those by J.K. Rowling. And her writings on what she calls the Deathly Hallows. Resisting the will of the universe weakens one’s immunity to the effect of the low vibrational darkness sludge entities and the kundalini wilts in turn, so the logical actor must embark on the Quest. With the Quest’s fruits now laid bare before us, we can assign a human-language name to it. HarryPotterObamaSonic10Inu is nothing less than an embodiment of the Quest that led to its discovery (with the exception of 10, being the number of spirals that comprise the Tree of Life). If we listen, we can understand that it is a store of                            </p>
                             </div>
@@ -245,7 +245,7 @@
                         </div>
 
                         <div id="team">
-                            <h4 class="text-dark">Team</h4>
+                            <h3 class="text-white">Team</h3>
                             <div class="row">
                                 <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
                                   <img
