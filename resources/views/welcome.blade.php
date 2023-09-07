@@ -6,61 +6,79 @@
             <div class="ml-5 mr-2">
                 <ul class="nav mt-3">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" href="#Hary"><p class="bg-white" style="color: blueviolet;"><b>Welcome HarryPotterObamaSonic10Inu(Ticker:BITCOIN)</b></p></a>
+                      <a class="nav-link active" aria-current="page" href="#Hary"><p class="bg-white" style="color: blueviolet; font-size:20px"><b>Welcome HarryPotterObamaSonic10Inu(Ticker:BITCOIN)</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#howtobuy" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>How to Buy</b></p></a>
+                    <li class="nav-item row">
+                      <img src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="#howtobuy" target="_blank"><p class="bg-white" style="color: blueviolet; font-size:20px"><b>How to Buy</b></p></a>
                       </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#about" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>About</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                      <a class="nav-link" href="#about" target="_blank"><p class="bg-white" style="color: blueviolet; font-size:20px"><b>About</b></p></a>
                     </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#tokenomics" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Tokenomics</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                      <a class="nav-link" href="#tokenomics" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Tokenomics</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#team" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Team</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="#team" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Team</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.dextools.io/app/en/ether/pair-explorer/0x2cc846fff0b08fb3bffad71f53a60b4b6e6d6482" target="_blank"><p class="bg-white" style="color: blue;"><b>Chart</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://www.dextools.io/app/en/ether/pair-explorer/0x2cc846fff0b08fb3bffad71f53a60b4b6e6d6482" target="_blank"><p class="bg-white" style="color: blue;font-size:20px"><b>Chart</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://hpos10i.com/click-here/HarryPotterObamaSonic10Inu-Ticker-BITCOIN-White-Paper.txt" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>White Paper</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://hpos10i.com/click-here/HarryPotterObamaSonic10Inu-Ticker-BITCOIN-White-Paper.txt" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>White Paper</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#funny" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Funny Pictures</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="#funny" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Funny Pictures</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://t.me/hpos10i" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Telegram</b></p></a>
+                    <li class="nav-item row">
+                        <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://t.me/hpos10i" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Telegram</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://twitter.com/RealHPOS10I" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Twitter</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://twitter.com/RealHPOS10I" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Twitter</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.reddit.com/r/hpos10i/" target="_blank"><p class="bg-white" style="color: blue;"><b>Reddit</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://www.reddit.com/r/hpos10i/" target="_blank"><p class="bg-white" style="color: blue;font-size:20px"><b>Reddit</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://etherscan.io/tokens" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>EtherScan</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://etherscan.io/tokens" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>EtherScan</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://hpos10imerch.com/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Merch</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://hpos10imerch.com/" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Merch</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://opensea.io/collection/sproto-gremlins" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Sproto Gremlins NFTs</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://opensea.io/collection/sproto-gremlins" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Sproto Gremlins NFTs</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://crash.hpos10i.com/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Casino Night Zone</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://crash.hpos10i.com/" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Casino Night Zone</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://coinmarketcap.com/currencies/harrypotterobamasonic10inu-eth/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>CoinMarketCap</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://coinmarketcap.com/currencies/harrypotterobamasonic10inu-eth/" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>CoinMarketCap</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Goin Gecko</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Goin Gecko</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://poloniex.com/trade/HARRY_USDT" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Ploniex</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://poloniex.com/trade/HARRY_USDT" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Ploniex</b></p></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://www.lbank.com/trade/bitcoin_usdt/" target="_blank"><p class="bg-white" style="color: blueviolet;"><b>Lbank</b></p></a>
+                    <li class="nav-item row">
+                      <img class="ml-3" src="/emerald-purple.png" width="25" height="25" alt="">
+                        <a class="nav-link" href="https://www.lbank.com/trade/bitcoin_usdt/" target="_blank"><p class="bg-white" style="color: blueviolet;font-size:20px"><b>Lbank</b></p></a>
                     </li>
                   </ul>
                   <hr style=" border: 10px solid blue;">
